@@ -35,3 +35,8 @@ It contains product and review information scraped from Amazon product pages, in
 - Pivot tables
 - Summary insights
 
+## Project Report
+
+You can download or view the full project report here:
+
+👉 [📥 Amazon Product Review Analysis – Full Report (PDF)](Amazon_Project_Summary.pdf)
