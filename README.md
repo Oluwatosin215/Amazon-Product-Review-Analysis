@@ -45,20 +45,20 @@ This is where i include some basic lines of Dax expressions used during this ana
 Excel dax expression for task 7
 =IF(G2 >= 0.5, "Yes", "No")
 =COUNTIF(H2:H1466, "Yes")
-,Excel dax expression for task 9
+,  Excel dax expression for task 9
 =[@[actual_price]] * [@[rating_count]]
 =F2 * H2
-,Excel dax expression for task 10
+, Excel dax expression for task 10
 =IF([@[actual_price]]<200, "<₹200", IF([@[actual_price]]<=500, "₹200–₹500", ">₹500"))
 =IF(F2<200, "<₹200", IF(F2<=500, "₹200–₹500", ">₹500"))
-,Excel dax expression for task 11
+, Excel dax expression for task 11
 =CORREL(discount_range, rating_range)
 =CORREL(G2:G1466, H2:H1466)
  Interpretation of task 11
 * +1 = Strong positive correlation (as discount goes up, rating goes up)
 * -1 = Strong negative correlation
 * 0 = No correlation
-,Excel dax expression for task 12
+, Excel dax expression for task 12
 =IF([@[rating_count]] < 1000, "Yes", "No")
 =IF(H2 < 1000, "Yes", "No")
 =COUNTIF(I2:I1466, "Yes")
