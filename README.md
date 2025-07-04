@@ -30,4 +30,8 @@ It contains product and review information scraped from Amazon product pages, in
 -  How many products have fewer than 1,000 reviews?
 -  Which categories have products with the highest discounts?
 -  Identify the top 5 products in terms of rating and number of reviews combined.
+## Deliverables
+- Excel dashboard
+- Pivot tables
+- Summary insights
 
