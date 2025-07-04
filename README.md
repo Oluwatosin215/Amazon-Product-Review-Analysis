@@ -39,4 +39,4 @@ It contains product and review information scraped from Amazon product pages, in
 
 You can download or view the full project report here:
 
-👉 [📥 Amazon Product Review Analysis – Full Report (PDF)](Amazon_Project_Summary.pdf)
+[Amazon case study.xlsx](https://github.com/user-attachments/files/21054751/Amazon.case.study.xlsx)
