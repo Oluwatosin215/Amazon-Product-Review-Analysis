@@ -78,5 +78,6 @@ Excel dax expression for task 7
 ## Project Report
 
 You can download or view the full project report here:
+[Uploading Amazon.case.study.xlsx…]()
 
-[Amazon case study.xlsx](https://github.com/user-attachments/files/21054751/Amazon.case.study.xlsx)
+
